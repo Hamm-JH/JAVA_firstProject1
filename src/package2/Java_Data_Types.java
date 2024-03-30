@@ -1,6 +1,6 @@
 package package2;
 
-public class JavaTester {
+public class Java_Data_Types {
     public static void main(String args[]) {
         byte byteValue1 = 2;
         byte byteValue2 = 4;
