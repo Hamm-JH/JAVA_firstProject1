@@ -6,6 +6,7 @@ public class p462_ThrowsExample {
             findClass();
         } catch (ClassNotFoundException e) {
             System.out.println("클래스가 존재하지 않습니다.");
+            String s1 = "hello";
         }
     }
 
